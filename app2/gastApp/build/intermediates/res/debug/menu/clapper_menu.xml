@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+<item android:enabled="true" 
+	android:titleCondensed="@string/menu_param"
+	android:title="@string/menu_param" android:id="@+id/m_match_param"
+	android:orderInCategory="1" />
+</menu>
+<!-- From: file:/Users/Sihui/Downloads/app2/gastApp/src/main/res/menu/clapper_menu.xml -->

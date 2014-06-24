@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="commons-codec-1.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/intermediates/exploded-aar/app2/gastLibaryLuceneExt/unspecified/libs/commons-codec-1.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

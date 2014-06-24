@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/Users/Sihui/Downloads/app2/gastApp/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <array name="default_speech_targets">
+        <item>Cumin Seeds</item>
+        <item>Cumin</item>
+        <item>Decaf</item>
+        <item>check</item>
+        <item>uncheck</item>
+        <item>Heart</item>
+        <item>It’s not easy to wreck a nice beach</item>
+        <item>Sally sell sea shells by the sea shore</item>
+        <item>My android and I went to the store</item>
+        <item>Je joue au tennis</item>
+        <item>Vamos a la playa</item>
+        <item>Say s</item>
+    </array>
+    <array name="default_tts_targets">
+        <item>Heart</item>
+        <item>Sally sell sea shells by the sea shore</item>
+        <item>Broccoli is my favorite vegetable</item>
+        <item>android</item>
+        <item>Hola</item>
+        <item>Quieres una alcachofa?</item>
+        <item>bonjour comment allez-vous</item>
+        <item>Say s</item>
+    </array>
+    <!-- From: file:/Users/Sihui/Downloads/app2/gastApp/src/main/res/values/fooddialog.xml -->
+    <eat-comment />
+
+    <array name="food_add_command">
+        <item>add</item>
+    </array>
+    <array name="food_cancel">
+        <item>cancel</item>
+    </array>
+    <array name="food_remove_command">
+        <item>remove</item>
+        <item>delete</item>
+    </array>
+    <!-- From: file:/Users/Sihui/Downloads/app2/gastApp/src/main/res/values/pref_strings.xml -->
+    <eat-comment />
+
+    <string-array name="pref_capacitive_backlight_entries">
+        <item>Strict</item>
+        <item>Stem</item>
+        <item>Phonetic</item>
+    </string-array>
+    <string-array name="pref_capacitive_backlight_values">
+        <item>Strict</item>
+        <item>Stem</item>
+        <item>Phonetic</item>
+    </string-array>
+
+    <array name="pref_languagemodel_values">
+        <item>0</item>
+        <item>1</item>
+    </array>
+    <!-- From: file:/Users/Sihui/Downloads/app2/build/intermediates/exploded-aar/app2/gastLibrary/unspecified/res/values/values.xml -->
+    <eat-comment />
+
+    <array name="speech_activation_types">
+        <item>@string/speech_activation_button</item>
+        <item>@string/speech_activation_movement</item>
+        <item>@string/speech_activation_clap</item>
+        <item>@string/speech_activation_speak</item>
+    </array>
+    <array name="voiceaction_neutralwords">
+        <item>cancel</item>
+        <item>done</item>
+    </array>
+    <array name="voiceaction_nowords">
+        <item>no</item>
+    </array>
+    <array name="voiceaction_yeswords">
+        <item>yes</item>
+        <item>ok</item>
+    </array>
+    <!-- From: file:/Users/Sihui/Downloads/app2/gastApp/src/main/res/values/bool.xml -->
+    <eat-comment />
+
+    <bool name="useHighPassFilterDefaultValue">true</bool>
+    <bool name="useTtsDefaultValue">true</bool>
+    <!-- From: file:/Users/Sihui/Downloads/app2/gastApp/src/main/res/values/colors.xml -->
+    <eat-comment />
+
+    <color name="background_white">#FFFFFF</color>
+    <color name="blackish">#8B7765</color>
+    <color name="blue">#770000ff</color>
+    <color name="blue2">#0000ff</color>
+    <color name="blue25">#0000ff</color>
+    <color name="boxtitle_brown">#D2691E</color>
+    <color name="chocolate">#D2691E</color>
+    <color name="cornsilk">#FFF8DC</color>
+    <color name="emphasis_red">#f00</color>
+    <color name="gray">#F2F2F2</color>
+    <color name="green">#7700ff00</color>
+    <color name="khaki">#ADA96E</color>
+    <color name="khaki_plus">#BDA96E</color>
+    <color name="lightgrey">#F2F2F2</color>
+    <color name="mygraytransparent">#AAF2F2F2</color>
+    <color name="normal_black">#000000</color>
+    <color name="orange4">#f00</color>
+    <color name="orange5">#f00</color>
+    <color name="red">#7f00</color>
+    <color name="screen_background_black">#ff000000</color>
+    <color name="snow">#FFFAFA</color>
+    <color name="snowtransparenthighlight">#55F8F8F6</color>
+    <color name="solid_blue">#0000ff</color>
+    <color name="solid_green">#f0f0</color>
+    <color name="solid_red">#f00</color>
+    <color name="solid_yellow">#ffffff00</color>
+    <color name="yellow1">#77ffff00</color>
+    <color name="yellow2">#77ffff00</color>
+    <!-- From: file:/Users/Sihui/Downloads/app2/gastApp/src/main/res/values/pref_strings.xml -->
+    <eat-comment />
+
+    <integer name="pref_tts_stream_default">3</integer>
+    <!-- From: file:/Users/Sihui/Downloads/app2/gastApp/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="SpeechRecognitionResultsActivityLabel">Speech Recognition Results</string>
+    <string name="TtsPlayActivityLabel">Text-to-Speech Playground</string>
+    <!-- From: file:/Users/Sihui/Downloads/app2/gastApp/src/main/res/values/pref_strings.xml -->
+    <eat-comment />
+
+    <string name="UNSET">-1</string>
+    <!-- From: file:/Users/Sihui/Downloads/app2/gastApp/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="accelerometerLabel">Accelerometer</string>
+    <string name="accelerometerMagnetometerLabel">Accelerometer &amp; Magnetometer</string>
+    <string name="accuracyLabel">Accuracy:</string>
+    <string name="activity_title">Stealth Saver</string>
+    <string name="altitudeLabel">Altitude (m):</string>
+    <string name="androidProximityAlertTypeLabel">Android</string>
+    <string name="app_icon_label">Stealth Saver</string>
+    <string name="app_name">Stealth Saver</string>
+    <string name="audioSectionHeading">Audio</string>
+    <!-- From: file:/Users/Sihui/Downloads/app2/gastApp/src/main/res/values/pref_strings.xml -->
+    <eat-comment />
+
+    <string name="audio_clapper_amplitude_difference">Phrase Query</string>
+    <string name="audio_clapper_preferences_key">audio_clapper_preferences_key</string>
+    <!-- From: file:/Users/Sihui/Downloads/app2/gastApp/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="audio_log">Detections</string>
+    <string name="audio_magnitude_label">Max Amplitude</string>
+    <string name="audio_play_all">Play All</string>
+    <string name="audio_play_high">Play High</string>
+    <string name="audio_play_low">Play low</string>
+    <string name="audio_play_mid">Play Mid</string>
+    <string name="audio_start_audio_clapper">Start Noise Clapper</string>
+    <string name="audio_start_clapper">Start Clapper</string>
+    <string name="audio_start_pitch">Start Logging</string>
+    <string name="audio_start_singing_clapper">Start Singing Clapper</string>
+    <string name="audio_status_recording">Recording</string>
+    <string name="audio_status_stopped">Not Recording</string>
+    <string name="audio_stop_clapper">Stop</string>
+    <string name="audio_stop_clapper_all">Stop Recording</string>
+    <string name="azimuthLabel">Azimuth (Z Axis):</string>
+    <string name="barometerAltitudeLabel">Barometer Altitude (Standard Pressure)</string>
+    <string name="btn_food_edit_and_compare_label">Edit and Compare</string>
+    <string name="btn_food_edit_label">Edit</string>
+    <string name="btn_food_lookup_label">Lookup</string>
+    <string name="btn_food_quiz_label">Quiz</string>
+    <string name="btn_play_earcon_label">Earcon</string>
+    <string name="btn_play_silence_label">Silence</string>
+    <string name="btn_speak_label">Speak</string>
+    <string name="btn_speak_label_fordisplay">Displaying results</string>
+    <string name="btn_speech_start_service">Start</string>
+    <string name="btn_speech_stop_service">Stop</string>
+    <string name="btn_speech_write_activation_tag">Write speech activation tag</string>
+    <string name="btn_start">Start</string>
+    <string name="btn_start_motion_activate">Start Movement Activator</string>
+    <string name="btn_stop">Stop</string>
+    <string name="btn_stop_speak_label">Stop Listening</string>
+    <string name="btn_tts_stop_speak_label">Stop speaking</string>
+    <string name="camera">Camera</string>
+    <string name="capture">Capture</string>
+    <string name="captureAdvice">"Enter filename"</string>
+    <string name="changeLocationProviderSettingsText">Change Location Provider Settings</string>
+    <!-- From: file:/Users/Sihui/Downloads/app2/gastApp/src/main/res/values/sensors_strings.xml -->
+    <eat-comment />
+
+    <string name="change_rate">Change Rate</string>
+    <!-- From: file:/Users/Sihui/Downloads/app2/gastApp/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="clearProximityAlert">Clear Proximity\nAlert</string>
+    <!-- From: file:/Users/Sihui/Downloads/app2/gastApp/src/main/res/values/nfc_strings.xml -->
+    <eat-comment />
+
+    <string name="computer_name_label">Computer Name</string>
+    <string name="computer_processor_label">Processor speed (MHz)</string>
+    <string name="computer_ram_label">RAM (GB)</string>
+    <!-- From: file:/Users/Sihui/Downloads/app2/gastApp/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="customProximityAlertTypeLabel">Custom</string>
+    <string name="d_error">Error</string>
+    <string name="d_exit">Exit</string>
+    <string name="d_info">Info</string>
+    <string name="d_ok">Ok</string>
+    <string name="d_select_audio_stream">Select audio stream</string>
+    <string name="d_select_language">Select language</string>
+    <string name="d_sent">Sent</string>
+    <!-- From: file:/Users/Sihui/Downloads/app2/gastApp/src/main/res/values/sensors_strings.xml -->
+    <eat-comment />
+
+    <string name="details">Sensor Details</string>
+    <!-- From: file:/Users/Sihui/Downloads/app2/gastApp/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="enableHighPassFilterLabel">Enable High-Pass Filter</string>
+    <string name="enabledProvidersLabel">Enabled Providers:</string>
+    <string name="enterLocationLabel">Enter Location:</string>
+    <string name="eyesfree_speechlabel">Speech Activation Detected</string>
+    <string name="faceDownText">Face Down</string>
+    <string name="faceUpText">Face Up</string>
+    <string name="flash">Flash</string>
+    <string name="focus">Focus</string>
+    <!-- From: file:/Users/Sihui/Downloads/app2/gastApp/src/main/res/values/fooddialog.xml -->
+    <eat-comment />
+
+    <string name="food_add_calories_prompt">How many calories for %1$s?</string>
+    <string name="food_add_result">added %1$s with %2$s calories.</string>
+    <string name="food_cancelled">Cancelled.</string>
+    <string name="food_compare_result">%1$s has more calories than %2$s</string>
+    <string name="food_compare_result_same">%1$s has the same calories as %2$s</string>
+    <string name="food_edit_compare_prompt">Add &lt;food> or remove &lt;food> or &lt;food1> &lt;food2></string>
+    <string name="food_edit_prompt">Add &lt;food name> or remove &lt;food name></string>
+    <string name="food_lookup_prompt">Say a fruit or vegetable</string>
+    <string name="food_lookup_result">%1$s has %2$s calories</string>
+    <!-- From: file:/Users/Sihui/Downloads/app2/gastApp/src/main/res/values/pref_strings.xml -->
+    <eat-comment />
+
+    <string name="food_preferences_key">food_preferences_key</string>
+    <string name="food_preferences_lookup_key">food_lookup_preferences_key</string>
+    <!-- From: file:/Users/Sihui/Downloads/app2/gastApp/src/main/res/values/fooddialog.xml -->
+    <eat-comment />
+
+    <string name="food_remove_complete">removed %1$s</string>
+    <string name="food_remove_confirm_prompt">Are you sure you want to remove %1$s?</string>
+    <string name="food_remove_failed">%1$s not removed</string>
+    <!-- From: file:/Users/Sihui/Downloads/app2/gastApp/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="geocodeErrorMessage">Geocoding of location failed. Try re-submitting location.</string>
+    <string name="geocodeErrorTitle">Geocoding Error</string>
+    <string name="gpsAltitudeLabel">GPS Altitude</string>
+    <string name="gpsNotEnabledMessage">Warning: GPS is not enabled</string>
+    <string name="gravityMagnetometerLabel">Gravity Sensor &amp; Magnetometer</string>
+    <string name="gravitySensorLabel">Gravity Sensor</string>
+    <!-- From: file:/Users/Sihui/Downloads/app2/build/intermediates/exploded-aar/app2/gastLibaryLuceneExt/unspecified/res/values/values.xml -->
+    <eat-comment />
+
+    <string name="hello">Hello World, GastLibaryLuceneExtActivity!</string>
+    <!-- From: file:/Users/Sihui/Downloads/app2/gastApp/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="imageSectionHeading">Image Processing</string>
+    <!-- From: file:/Users/Sihui/Downloads/app2/gastApp/src/main/res/values/nfc_strings.xml -->
+    <eat-comment />
+
+    <string name="instructions">Scan the NFC tag on the computer for information on its internals. Use the editable text fields below to make changes and click the update button to re-flash the NFC tag.</string>
+    <!-- From: file:/Users/Sihui/Downloads/app2/gastApp/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="labelWriteTag">Write Activation Tag</string>
+    <string name="latitudeLabel">Latitude:</string>
+    <string name="launchClapper">Clapper</string>
+    <string name="launchDetectFaces">Detect Faces</string>
+    <string name="launchDetermineAltitude">Determine Altitude</string>
+    <string name="launchDetermineMovement">Determine Movement</string>
+    <string name="launchDetermineOrientation">Determine Orientation</string>
+    <string name="launchFoodDialog">Food Dialogue Matcher Playground</string>
+    <string name="launchGetCurrentLocationActivityButtonText">Get Current Location</string>
+    <string name="launchImageBarcode">Barcode</string>
+    <string name="launchImageDetectLogo">Detect Logo</string>
+    <string name="launchImageDetectLogoBetter">Detect Logo Better</string>
+    <string name="launchImageDetectLogoFaster">Detect Logo Faster</string>
+    <string name="launchLiveCapture">Live Capture</string>
+    <string name="launchLiveCapturePlus">Live CapturePlus</string>
+    <string name="launchMagicWord">Say the Magic Word</string>
+    <string name="launchMagicWordActivityName">Say the Magic Word</string>
+    <string name="launchMagicWordDemo">Combined Demo</string>
+    <string name="launchMagicWordExecutorActivityName">Voice Executor Demo</string>
+    <string name="launchMultiTurnFoodDialog">Multi-turn Food Dialogue</string>
+    <string name="launchNfc">Simple Inventory</string>
+    <string name="launchNfcBeam">Beam Inventory</string>
+    <string name="launchNfcPeer">Peer To Peer Inventory</string>
+    <string name="launchNorthFinder">North Finder</string>
+    <string name="launchProximityAlertActivityButtonText">Add Proximity Alert</string>
+    <string name="launchSensorList">Sensor List</string>
+    <string name="launchSimpleCaptureActivity">Simple Capture</string>
+    <string name="launchSpeechActivationService">Stealth Saver</string>
+    <string name="launchSpeechActivationStartStop">Speech Activation Start Stop</string>
+    <string name="launchSpeechRecognition">Try Speech</string>
+    <string name="launchSpeechRecognitionActivityName">Speech Recognition Playground</string>
+    <string name="launchTrackLocationActivityButtonText">Track Location</string>
+    <string name="launchTtsDemo">Demo</string>
+    <string name="launchTtsInfo">Diagnostics</string>
+    <string name="launchTtsPlay">Try Text-to-Speech</string>
+    <string name="linearAccelerationSensorLabel">Linear Acceleration Sensor</string>
+    <string name="locationLabel">Location:</string>
+    <string name="locationSectionHeading">Location Services</string>
+    <string name="longitudeLabel">Longitude:</string>
+    <string name="lookupLocationButton">Lookup Location</string>
+    <!-- From: file:/Users/Sihui/Downloads/app2/gastApp/src/main/res/values/mapkey.xml -->
+    <eat-comment />
+
+    <string name="mapkey">0k-YOo6o-aOF3cVry1k-yZO6zPQzQ_sleyeOWFw</string>
+    <!-- From: file:/Users/Sihui/Downloads/app2/gastApp/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="menu_filterparam">Filter Parameters</string>
+    <string name="menu_hint">Hint</string>
+    <string name="menu_languageavailable">Test Locale</string>
+    <string name="menu_param">Matching Preferences</string>
+    <string name="menu_reset_speechparam">Reset All</string>
+    <string name="menu_resetdb_param">Reset Database</string>
+    <string name="menu_resetprefs">Reset to defaults</string>
+    <string name="menu_setaudiostream">Set Audio Stream</string>
+    <string name="menu_setlanguage">Set Language</string>
+    <string name="menu_showdb_param">Show Foods</string>
+    <string name="menu_speech_compute_index">Compute Index</string>
+    <string name="menu_speech_language_details">Language Details</string>
+    <string name="menu_speechparam">Speech Parameters</string>
+    <string name="menu_suggestions">Suggestions</string>
+    <string name="menu_ttsparam">parameters</string>
+    <string name="menu_write_speech_activation_tag">Write Speech Activation Tag</string>
+    <string name="metersUnit">meters(s)</string>
+    <string name="movementDetectedText">Movement Detected</string>
+    <string name="mslpBarometerAltitudeLabel">Barometer Altitude (MSLP)</string>
+    <string name="mslpLabel">MSLP (milibar):</string>
+    <!-- From: file:/Users/Sihui/Downloads/app2/gastApp/src/main/res/values/nfc_strings.xml -->
+    <eat-comment />
+
+    <string name="new_tag_found">New inventory tag found!</string>
+    <!-- From: file:/Users/Sihui/Downloads/app2/gastApp/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="nfcSectionHeading">NFC</string>
+    <string name="no_cameras">This device has no cameras!</string>
+    <string name="no_device">Please connect the accessory.</string>
+    <string name="none">None</string>
+    <string name="notAvailable">N/A</string>
+    <string name="optionsSectionHeading">Options</string>
+    <string name="orientationLabel">Orientation:</string>
+    <string name="pitchLabel">Pitch (X Axis):</string>
+    <!-- From: file:/Users/Sihui/Downloads/app2/gastApp/src/main/res/values/pref_strings.xml -->
+    <eat-comment />
+
+    <string name="pref_complete_silence">pref_complete_silence</string>
+    <string name="pref_complete_silence_default">@string/UNSET</string>
+    <string name="pref_complete_silence_title">COMPLETE_SILENCE_LENGTH</string>
+    <string name="pref_direct">pref_direct</string>
+    <string name="pref_direct_default">false</string>
+    <string name="pref_direct_title">Use SpeechRecognizer</string>
+    <string name="pref_food_default">false</string>
+    <string name="pref_food_lucene">pref_food_lucene</string>
+    <string name="pref_food_lucene_title">Use lucene</string>
+    <string name="pref_food_or">pref_food_or</string>
+    <string name="pref_food_or_default">true</string>
+    <string name="pref_food_or_title">Or Query</string>
+    <string name="pref_food_ordered">pref_food_ordered</string>
+    <string name="pref_food_ordered_title">Ordered</string>
+    <string name="pref_food_phrase">pref_food_phrase</string>
+    <string name="pref_food_phrase_title">Phrase Query</string>
+    <string name="pref_food_prefix">pref_food_prefix</string>
+    <string name="pref_food_prefix_title">Prefix Query</string>
+    <string name="pref_handsfree">pref_handsfree</string>
+    <string name="pref_handsfree_default">false</string>
+    <string name="pref_handsfree_title">Hands Free</string>
+    <string name="pref_language">Language</string>
+    <string name="pref_language_default">en-us</string>
+    <string name="pref_language_title">Language</string>
+    <string name="pref_languagemodel">LanguageModel</string>
+    <string name="pref_languagemodel_default">false</string>
+    <string name="pref_languagemodel_title">Model free form</string>
+    <string name="pref_match">pref_match</string>
+    <string name="pref_match_default">Strict</string>
+    <string name="pref_match_phonetic">Strict</string>
+    <string name="pref_match_stem">Strict</string>
+    <string name="pref_match_strict">Strict</string>
+    <string name="pref_match_title">Matching Method</string>
+    <string name="pref_maxresults">MaxResults</string>
+    <string name="pref_maxresults_default">100</string>
+    <string name="pref_maxresults_title">Max Results</string>
+    <string name="pref_minimum_input_length">pref_minimum_input_length</string>
+    <string name="pref_minimum_input_length_default">@string/UNSET</string>
+    <string name="pref_minimum_input_length_title">MINIMUM_LENGTH</string>
+    <string name="pref_partial">pref_parial</string>
+    <string name="pref_partial_default">false</string>
+    <string name="pref_partial_title">Partial Results</string>
+    <string name="pref_possibly_complete_silence_length">pref_possibly_complete_silence_length</string>
+    <string name="pref_possibly_complete_silence_length_default">@string/UNSET</string>
+    <string name="pref_possibly_complete_silence_length_title">POSSIBLY_COMPLETE_SILENCE_LENGTH</string>
+    <string name="pref_speech_key">SpeechSettings</string>
+    <string name="pref_tts_customaudio">customaudio</string>
+    <string name="pref_tts_customaudio_default">true</string>
+    <string name="pref_tts_customaudio_title">\"android\" custom speech</string>
+    <string name="pref_tts_key">TtsSettings</string>
+    <string name="pref_tts_pan">pref_tts_pan</string>
+    <string name="pref_tts_pan_default">0</string>
+    <string name="pref_tts_pan_title">Pan</string>
+    <string name="pref_tts_pitch">pitch</string>
+    <string name="pref_tts_pitch_default">1.0</string>
+    <string name="pref_tts_pitch_title">Pitch</string>
+    <string name="pref_tts_queueaction">queueAction</string>
+    <string name="pref_tts_queueaction_default">false</string>
+    <string name="pref_tts_queueaction_title">Queue Flush</string>
+    <string name="pref_tts_silencelength">silencelength</string>
+    <string name="pref_tts_silencelength_default">1000</string>
+    <string name="pref_tts_silencelength_title">Silence Length (Ms)</string>
+    <string name="pref_tts_speechrate">pref_tts_speechrate</string>
+    <string name="pref_tts_speechrate_default">1.0</string>
+    <string name="pref_tts_speechrate_title">Speech Rate</string>
+    <string name="pref_tts_stream">pref_tts_stream</string>
+    <string name="pref_tts_stream_title">Audio Stream</string>
+    <string name="pref_tts_tofile">pref_tts_tofile</string>
+    <string name="pref_tts_tofile_default">false</string>
+    <string name="pref_tts_tofile_title">Synthesize to file</string>
+    <string name="pref_tts_volume">pref_tts_volume</string>
+    <string name="pref_tts_volume_default">1.0</string>
+    <string name="pref_tts_volume_title">Volume</string>
+    <string name="pref_websearch">pref_websearch</string>
+    <string name="pref_websearch_default">false</string>
+    <string name="pref_websearch_title">Web Search</string>
+    <string name="pref_withpendingintent">pref_withpendingintent</string>
+    <string name="pref_withpendingintent_default">false</string>
+    <string name="pref_withpendingintent_title">Pending intent for results</string>
+    <!-- From: file:/Users/Sihui/Downloads/app2/gastApp/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="providerLabel">Provider:</string>
+    <string name="proximityLabel">Proximity (cm):</string>
+    <string name="radiusLabel">Enter Radius (m):</string>
+    <string name="readingAccelerationData">Reading Acceleration Data</string>
+    <!-- From: file:/Users/Sihui/Downloads/app2/gastApp/src/main/res/values/nfc_strings.xml -->
+    <eat-comment />
+
+    <string name="ready_to_write">Ready to write to NFC tag!</string>
+    <string name="ready_to_write_instructions">Touch your device to a computer\'s tag to update its inventory.</string>
+    <string name="ready_to_write_instructions_generic">Touch your device a tag to write.</string>
+    <!-- From: file:/Users/Sihui/Downloads/app2/gastApp/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="relativeAltitudeLabel">Relative Altitude (m):</string>
+    <!-- From: file:/Users/Sihui/Downloads/app2/gastApp/src/main/res/values/nfc_strings.xml -->
+    <eat-comment />
+
+    <string name="replace_current_tag">Read tag and replace currently displayed tag information in the textfields?</string>
+    <!-- From: file:/Users/Sihui/Downloads/app2/gastApp/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="rollLabel">Roll (Y Axis):</string>
+    <string name="rotationMatrixGenFailureMessage">Failed to generate rotation matrix</string>
+    <string name="rotationVectorLabel">Rotation Vector</string>
+    <string name="secondsUnit">second(s)</string>
+    <string name="selectProximityAlertTypeLabel">Select Proximity Alert Type</string>
+    <string name="selectSensorSectionHeading">Select Sensor</string>
+    <string name="selectedSensorLabel">Selected Sensor:</string>
+    <string name="sensorSectionHeading">Physical Sensors</string>
+    <string name="setLocation">Set Location</string>
+    <string name="setProximityAlert">Set Proximity\nAlert</string>
+    <string name="set_parameters_failed">Set parameters failed: </string>
+    <string name="speakMovementDetectedLabel">Speak Movement Detected</string>
+    <string name="speakOrientationLabel">Speak Orientation</string>
+    <string name="speechActivationHeading">Select speech activation method</string>
+    <string name="speechActiviationControlHeading">Activation Control</string>
+    <string name="speechActiviationHeading">Activation Method</string>
+    <string name="speechFoodBrowserName">Food Database Browser</string>
+    <string name="speechFoodResultHeading">Transcript</string>
+    <string name="speechMultiFoodResultHeading">Recognition Results</string>
+    <string name="speechNotAvailableMessage">Speech recognition not supported on this device</string>
+    <string name="speechRecognitionFailed">Did not understand, please try again</string>
+    <string name="speechResultsHeading">Results: </string>
+    <string name="speechSectionHeading">Speech Recognition</string>
+    <string name="speechTargetHeading">What you are trying to say</string>
+    <string name="speechTargetPresetHeading">Select preset</string>
+    <string name="speech_activation_btn_listening">Listening for </string>
+    <string name="speech_activation_btn_prefix">Start </string>
+    <!-- From: file:/Users/Sihui/Downloads/app2/build/intermediates/exploded-aar/app2/gastLibrary/unspecified/res/values/values.xml -->
+    <eat-comment />
+
+    <string name="speech_activation_button">Button</string>
+    <string name="speech_activation_camera">Camera</string>
+    <string name="speech_activation_clap">Clap</string>
+    <string name="speech_activation_default_label">Speak</string>
+    <string name="speech_activation_movement">Movement</string>
+    <string name="speech_activation_nfc">NFC Scan</string>
+    <string name="speech_activation_notification_listening">Listening for </string>
+    <string name="speech_activation_notification_title">Speech Activation</string>
+    <string name="speech_activation_speak">Speak Hello</string>
+    <!-- From: file:/Users/Sihui/Downloads/app2/gastApp/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="speech_data_check_result_title">Language Details Results</string>
+    <string name="speech_launcher_prompt">Say a test phrase.</string>
+    <string name="speech_magic_word_correct_prompt">Correct! You said the magic word: </string>
+    <string name="speech_magic_word_fail_prompt">Wrong! The magic word is not: </string>
+    <string name="speech_magic_word_heard_nothing">Heard nothing</string>
+    <string name="speech_magic_word_prompt">Say the magic word</string>
+    <string name="speech_magic_word_secret">tree</string>
+    <string name="speech_prompt">Speak</string>
+    <string name="standardPressureLabel">Standard Pressure (milibar):</string>
+    <string name="startReadingAccelerationData">Start Reading Acceleration Data</string>
+    <string name="startTrackingButtonText">Start Tracking</string>
+    <string name="stopTrackingButtonText">Stop Tracking</string>
+    <string name="switchCamera">Switch camera</string>
+    <string name="timeToFixLabel">Time to Fix:</string>
+    <string name="ttsNotificationsOff">TTS Notifications Off</string>
+    <string name="ttsNotificationsOn">TTS Notifications On</string>
+    <string name="ttsSectionHeading">Text-to-Speech</string>
+    <string name="tts_">Attention customers</string>
+    <string name="tts_d_stilldownloading_buttonretry">Retry</string>
+    <string name="tts_d_stilldownloading_buttonwait">Wait</string>
+    <string name="tts_d_stilldownloading_message">Please wait for the language data to finish installing and try again.</string>
+    <string name="tts_dataCheck">Data check</string>
+    <string name="tts_demotext1">Attention customers</string>
+    <string name="tts_info_activity_title">Text-to-Speech Diagnostics</string>
+    <string name="tts_init_failed">Unable to create text to speech</string>
+    <string name="tts_install_tts_data">Requires Language data to proceed, would you like to install?</string>
+    <string name="tts_seelocales">See available locales with data</string>
+    <string name="tts_seelocalesnodata">See locales status</string>
+    <string name="tts_textToSpeakHeading">Text to speak</string>
+    <!-- From: file:/Users/Sihui/Downloads/app2/gastApp/src/main/res/values/nfc_strings.xml -->
+    <eat-comment />
+
+    <string name="turn_on_nfc">NFC Inventory can\'t be used without NFC enabled. Please turn on NFC in the Settings and then use the back button to return to this app.</string>
+    <!-- From: file:/Users/Sihui/Downloads/app2/build/intermediates/exploded-aar/app2/gastLibrary/unspecified/res/values/values.xml -->
+    <eat-comment />
+
+    <string name="voiceaction_cancelled_response">Cancelled.</string>
+    <string name="voiceaction_dontunderstand">I did not understand, please try again.</string>
+    <string name="voiceaction_heard_nothing">I did not understand because I heard nothing.</string>
+    <string name="voiceaction_inaccurate">I did not understand because I did not hear you well.</string>
+    <string name="voiceaction_not_command">%1$s is not a command</string>
+    <string name="voiceaction_retry">, please try again.</string>
+    <string name="voiceaction_unknown">I did not understand.</string>
+    <!-- From: file:/Users/Sihui/Downloads/app2/gastApp/src/main/res/values/nfc_strings.xml -->
+    <eat-comment />
+
+    <string name="warning_nfc_is_off">NFC is currently turned off!</string>
+    <!-- From: file:/Users/Sihui/Downloads/app2/gastApp/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="webServiceConnectionFailureMessage">Could not read pressure from web service</string>
+    <string name="whiteBalance">White Balance</string>
+    <!-- From: file:/Users/Sihui/Downloads/app2/gastApp/src/main/res/values/nfc_strings.xml -->
+    <eat-comment />
+
+    <string name="write_to_tag_button_label">Update</string>
+    <!-- From: file:/Users/Sihui/Downloads/app2/gastApp/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="xAxisLabel">X Axis:</string>
+    <string name="yAxisLabel">Y Axis:</string>
+    <string name="zAxisLabel">Z Axis:</string>
+    <string name="zoom">Zoom</string>
+    <!-- From: file:/Users/Sihui/Downloads/app2/gastApp/src/main/res/values/style.xml -->
+    <eat-comment />
+
+    <style name="appbutton" parent="apptext"></style>
+
+    <style name="appbuttoninlist" parent="apptext">
+        <item name="android:padding">5dip</item>
+    </style>
+
+    <style name="appspeechresulttext" parent="apptext">
+        <item name="android:textColor">@color/normal_black</item>
+    </style>
+
+    <style name="apptext">
+        <item name="android:textSize">12sp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="dropdownbutton" parent="appbutton">
+        <item name="android:src">@drawable/arrow_down_float</item>
+        <item name="android:scaleType">center</item>
+    </style>
+
+    <style name="line_separator">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">2dip</item>
+        <item name="android:color">@color/gray</item>
+        <item name="android:background">@color/gray</item>
+    </style>
+
+</resources>

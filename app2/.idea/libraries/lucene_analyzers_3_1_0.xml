@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="lucene-analyzers-3.1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/intermediates/exploded-aar/app2/gastLibaryLuceneExt/unspecified/libs/lucene-analyzers-3.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

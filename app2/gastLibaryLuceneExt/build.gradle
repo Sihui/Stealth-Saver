@@ -1,0 +1,27 @@
+apply plugin: 'android-library'
+
+android {
+    compileSdkVersion 19
+    buildToolsVersion "19.1.0"
+
+    defaultConfig {
+        applicationId "root.gast.search"
+        minSdkVersion 14
+        targetSdkVersion 14
+    }
+
+    buildTypes {
+        release {
+            runProguard false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile project(':gastLibrary')
+    compile files('libs/commons-codec-1.5.jar')
+    compile files('libs/lucene-analyzers-3.1.0.jar')
+    compile files('libs/lucene-core-3.1.0.jar')
+    compile files('libs/phonetix-0.2.jar')
+}

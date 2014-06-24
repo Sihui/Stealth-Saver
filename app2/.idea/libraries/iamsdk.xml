@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="iamsdk">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/gastApp/libs/iamsdk.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

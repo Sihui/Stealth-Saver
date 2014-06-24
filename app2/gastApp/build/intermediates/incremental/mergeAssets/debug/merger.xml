@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="unspecified" >
+        <source path="/Users/Sihui/Downloads/app2/build/intermediates/exploded-aar/app2/gastLibrary/unspecified/assets" />
+    </dataSet>
+    <dataSet config="unspecified" >
+        <source path="/Users/Sihui/Downloads/app2/build/intermediates/exploded-aar/app2/gastLibaryLuceneExt/unspecified/assets" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="/Users/Sihui/Downloads/app2/gastApp/src/main/assets" >
+            <file
+                name="tts/apache.txt"
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/assets/tts/apache.txt" />
+            <file
+                name="tts/whatisandroid.txt"
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/assets/tts/whatisandroid.txt" />
+        </source>
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/Sihui/Downloads/app2/gastApp/src/debug/assets" />
+    </dataSet>
+
+</merger>

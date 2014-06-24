@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/Sihui/Downloads/app2/gastApp/build/intermediates/pre-dexed/debug/support-v4-19.1.0-fe930dc68beb1e566675ce71b270d4091c6c249b.jar"
+        jar="/Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+    <item
+        dex="/Users/Sihui/Downloads/app2/gastApp/build/intermediates/pre-dexed/debug/Androidplot-core-0.5.0-release-ec61564eba147f9b0686a2a5d167d300376f1f12.jar"
+        jar="/Users/Sihui/Downloads/app2/gastApp/libs/Androidplot-core-0.5.0-release.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="72a0ec72a119887454de2745ccece3c659fcf0d2"/>
+    <item
+        dex="/Users/Sihui/Downloads/app2/gastApp/build/intermediates/pre-dexed/debug/classes-a2de61775f0868b9150a943f0b7704db3039a239.jar"
+        jar="/Users/Sihui/Downloads/app2/build/intermediates/exploded-aar/app2/gastLibaryLuceneExt/unspecified/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="12f6bcccd02a9fbc350d9b0dc7e85e21b6af5a19"/>
+    <item
+        dex="/Users/Sihui/Downloads/app2/gastApp/build/intermediates/pre-dexed/debug/iamsdk-9b81ba9a5398619678030d35579de409a39c6c19.jar"
+        jar="/Users/Sihui/Downloads/app2/gastApp/libs/iamsdk.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="584aacf4041c649e7f40ade439af3388614bb771"/>
+    <item
+        dex="/Users/Sihui/Downloads/app2/gastApp/build/intermediates/pre-dexed/debug/m2x-android-sdk-56c3766e9e426646d981f7461d51930834cf0ef6.jar"
+        jar="/Users/Sihui/Downloads/app2/gastApp/libs/m2x-android-sdk.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="9ed6b74d505c7347f3db494f019ddc2bed39d3c5"/>
+    <item
+        dex="/Users/Sihui/Downloads/app2/gastApp/build/intermediates/pre-dexed/debug/commons-codec-1.5-5110e562aa416ddc5fef04ce08deb46073cc2ccd.jar"
+        jar="/Users/Sihui/Downloads/app2/build/intermediates/exploded-aar/app2/gastLibrary/unspecified/libs/commons-codec-1.5.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="cf993e250ff71804754ec2734a16f23c0be99f70"/>
+    <item
+        dex="/Users/Sihui/Downloads/app2/gastApp/build/intermediates/pre-dexed/debug/android-async-http-1.4.4-737f2aa812d1041f67721b5f9aa965dd21dc9840.jar"
+        jar="/Users/Sihui/Downloads/app2/gastApp/libs/android-async-http-1.4.4.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3bae85a076241828810bf8fbcc12e5891d5fc34c"/>
+    <item
+        dex="/Users/Sihui/Downloads/app2/gastApp/build/intermediates/pre-dexed/debug/lucene-core-3.1.0-1c7ef09f8541a85f182943fcddaa4c48df1aaa49.jar"
+        jar="/Users/Sihui/Downloads/app2/build/intermediates/exploded-aar/app2/gastLibaryLuceneExt/unspecified/libs/lucene-core-3.1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="346e85978e23f126cbc821ac2b6528bd4e510296"/>
+    <item
+        dex="/Users/Sihui/Downloads/app2/gastApp/build/intermediates/pre-dexed/debug/lucene-analyzers-3.1.0-e3c8554959179e8108fcac7e18876a0c3b5e73e2.jar"
+        jar="/Users/Sihui/Downloads/app2/build/intermediates/exploded-aar/app2/gastLibaryLuceneExt/unspecified/libs/lucene-analyzers-3.1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="5809d74f755823767b1e79b9d2590e8f87c727ed"/>
+    <item
+        dex="/Users/Sihui/Downloads/app2/gastApp/build/intermediates/pre-dexed/debug/classes-450d4bca47bf2df6e9f06cdceaf8a600ad6d3639.jar"
+        jar="/Users/Sihui/Downloads/app2/build/intermediates/exploded-aar/app2/gastLibrary/unspecified/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="cdb26678b30b4b8eaa69ac6c83fcb072b6b44138"/>
+    <item
+        dex="/Users/Sihui/Downloads/app2/gastApp/build/intermediates/pre-dexed/debug/phonetix-0.2-3fdbd729ed4255958fe29e0980dcc41b91e2ed34.jar"
+        jar="/Users/Sihui/Downloads/app2/build/intermediates/exploded-aar/app2/gastLibaryLuceneExt/unspecified/libs/phonetix-0.2.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="0b95ba479b8c627d908841bd5a95453b95606e7e"/>
+
+</pre-dex-items>

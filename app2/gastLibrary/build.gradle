@@ -1,0 +1,25 @@
+apply plugin: 'android-library'
+
+android {
+    compileSdkVersion 19
+    buildToolsVersion '19.1.0'
+    defaultConfig {
+        applicationId 'root.gast'
+        minSdkVersion 10
+        targetSdkVersion 11
+    }
+    buildTypes {
+        release {
+            runProguard false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+    productFlavors {
+    }
+}
+
+dependencies {
+    compile files('libs/commons-codec-1.5.jar')
+    compile files('libs/lucene-analyzers-3.1.0.jar')
+    compile files('libs/iamsdk.jar')
+}

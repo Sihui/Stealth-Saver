@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+   android:layout_width="fill_parent"
+   android:layout_height="fill_parent"
+   >
+    <fragment
+        android:id="@+id/frag_sensor_select"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        class="root.gast.playground.sensor.SensorSelectorFragment" />
+
+    <fragment
+        android:id="@+id/frag_sensor_view"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        class="root.gast.playground.sensor.SensorDisplayFragment" />
+</LinearLayout>
+<!-- From: file:/Users/Sihui/Downloads/app2/gastApp/src/main/res/layout/sensor_main.xml -->

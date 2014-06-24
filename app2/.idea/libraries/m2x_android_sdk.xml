@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="m2x-android-sdk">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/gastApp/libs/m2x-android-sdk.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

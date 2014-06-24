@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/Users/Sihui/Downloads/app2/gastLibaryLuceneExt/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="app_name">GastLibaryLuceneExt</string>
+    <string name="hello">Hello World, GastLibaryLuceneExtActivity!</string>
+
+</resources>

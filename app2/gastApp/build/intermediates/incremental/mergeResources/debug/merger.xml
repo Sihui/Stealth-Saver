@@ -1,0 +1,1481 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="unspecified" >
+        <source path="/Users/Sihui/Downloads/app2/build/intermediates/exploded-aar/app2/gastLibrary/unspecified/res" >
+            <file
+                name="icon"
+                path="/Users/Sihui/Downloads/app2/build/intermediates/exploded-aar/app2/gastLibrary/unspecified/res/drawable/icon.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="main"
+                path="/Users/Sihui/Downloads/app2/build/intermediates/exploded-aar/app2/gastLibrary/unspecified/res/layout/main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                path="/Users/Sihui/Downloads/app2/build/intermediates/exploded-aar/app2/gastLibrary/unspecified/res/values/values.xml"
+                qualifiers="" >
+                <string name="voiceaction_retry" >, please try again.
+                </string>
+
+                <array name="speech_activation_types" >
+                    <item>
+@string/speech_activation_button
+                    </item>
+                    <item>
+@string/speech_activation_movement
+                    </item>
+                    <item>
+@string/speech_activation_clap
+                    </item>
+                    <item>
+@string/speech_activation_speak
+                    </item>
+                </array>
+
+                <string name="voiceaction_inaccurate" >I did not understand because I did not hear you well.
+                </string>
+                <string name="speech_activation_button" >Button
+                </string>
+
+                <array name="voiceaction_neutralwords" >
+                    <item>
+cancel
+                    </item>
+                    <item>
+done
+                    </item>
+                </array>
+
+                <string name="speech_activation_notification_title" >Speech Activation
+                </string>
+                <string name="speech_activation_movement" >Movement
+                </string>
+                <string name="speech_activation_default_label" >Speak
+                </string>
+                <string name="voiceaction_not_command" >%1$s is not a command
+                </string>
+                <string name="turn_on_nfc" >NFC can\'t be used without NFC enabled. Please turn on NFC in the Settings and then use the back button to return to this app.
+                </string>
+                <string name="ready_to_write_instructions" >Touch your device to a computer\'s tag to update its inventory.
+                </string>
+                <string name="ready_to_write" >Ready to write to NFC tag!
+                </string>
+                <string name="voiceaction_dontunderstand" >I did not understand, please try again.
+                </string>
+                <string name="voiceaction_heard_nothing" >I did not understand because I heard nothing.
+                </string>
+                <string name="speech_activation_camera" >Camera
+                </string>
+                <string name="speech_activation_clap" >Clap
+                </string>
+
+                <array name="voiceaction_nowords" >
+                    <item>
+no
+                    </item>
+                </array>
+
+                <string name="app_name" >GastLibrary
+                </string>
+                <string name="warning_nfc_is_off" >NFC is currently turned off!
+                </string>
+                <string name="speech_activation_nfc" >NFC Scan
+                </string>
+                <string name="speech_activation_notification_listening" >Listening for 
+                </string>
+                <string name="voiceaction_cancelled_response" >Cancelled.
+                </string>
+                <string name="speech_activation_speak" >Speak Hello
+                </string>
+
+                <array name="voiceaction_yeswords" >
+                    <item>
+yes
+                    </item>
+                    <item>
+ok
+                    </item>
+                </array>
+
+                <string name="voiceaction_unknown" >I did not understand.
+                </string>
+            </file>
+        </source>
+    </dataSet>
+    <dataSet config="unspecified" >
+        <source path="/Users/Sihui/Downloads/app2/build/intermediates/exploded-aar/app2/gastLibaryLuceneExt/unspecified/res" >
+            <file
+                name="ic_launcher"
+                path="/Users/Sihui/Downloads/app2/build/intermediates/exploded-aar/app2/gastLibaryLuceneExt/unspecified/res/drawable/ic_launcher.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/Sihui/Downloads/app2/build/intermediates/exploded-aar/app2/gastLibaryLuceneExt/unspecified/res/drawable-hdpi-v4/ic_launcher.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/Sihui/Downloads/app2/build/intermediates/exploded-aar/app2/gastLibaryLuceneExt/unspecified/res/drawable-ldpi-v4/ic_launcher.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/Sihui/Downloads/app2/build/intermediates/exploded-aar/app2/gastLibaryLuceneExt/unspecified/res/drawable-mdpi-v4/ic_launcher.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="main"
+                path="/Users/Sihui/Downloads/app2/build/intermediates/exploded-aar/app2/gastLibaryLuceneExt/unspecified/res/layout/main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                path="/Users/Sihui/Downloads/app2/build/intermediates/exploded-aar/app2/gastLibaryLuceneExt/unspecified/res/values/values.xml"
+                qualifiers="" >
+                <string name="hello" >Hello World, GastLibaryLuceneExtActivity!
+                </string>
+                <string name="app_name" >GastLibaryLuceneExt
+                </string>
+            </file>
+        </source>
+    </dataSet>
+    <dataSet config="main" >
+        <source path="/Users/Sihui/Downloads/app2/gastApp/src/main/res" >
+            <file
+                name="arrow_down_float"
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/drawable/arrow_down_float.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="emptyone"
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/drawable/emptyone.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="icon"
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/drawable/icon.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="say"
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/drawable/say.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="setting"
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/drawable/setting.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="icon"
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/drawable-hdpi/icon.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="icon"
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/drawable-ldpi/icon.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="icon"
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/drawable-mdpi/icon.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="address"
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/layout/address.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="aoa_base"
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/layout/aoa_base.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="clapperplay"
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/layout/clapperplay.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="current_location"
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/layout/current_location.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="determine_altitude"
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/layout/determine_altitude.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="determine_movement"
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/layout/determine_movement.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="determine_orientation"
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/layout/determine_orientation.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="enterworddialog"
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/layout/enterworddialog.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="foodbrowselist"
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/layout/foodbrowselist.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="foodbrowselist_entry"
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/layout/foodbrowselist_entry.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fooddialog"
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/layout/fooddialog.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fooddialogmulti"
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/layout/fooddialogmulti.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="geocode"
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/layout/geocode.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="image_barcode"
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/layout/image_barcode.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="image_detectfaces"
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/layout/image_detectfaces.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="image_detectlogo"
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/layout/image_detectlogo.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="image_detectlogo_better"
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/layout/image_detectlogo_better.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="image_detectlogo_faster"
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/layout/image_detectlogo_faster.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="image_livecapture"
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/layout/image_livecapture.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="image_livecaptureplus"
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/layout/image_livecaptureplus.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="image_simplecapture"
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/layout/image_simplecapture.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="magicword"
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/layout/magicword.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="magicworddemo"
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/layout/magicworddemo.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="main"
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/layout/main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="nfc"
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/layout/nfc.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="nfc_beam"
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/layout/nfc_beam.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="nfc_peer"
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/layout/nfc_peer.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="no_device"
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/layout/no_device.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="proximity_alert"
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/layout/proximity_alert.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="sensor_display_temp"
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/layout/sensor_display_temp.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="sensor_main"
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/layout/sensor_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="sensor_view"
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/layout/sensor_view.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="sensors_north_main"
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/layout/sensors_north_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="setting"
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/layout/setting.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="speechactivation_tagwriter"
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/layout/speechactivation_tagwriter.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="speechactivationservice"
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/layout/speechactivationservice.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="speechactivationstart_stop"
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/layout/speechactivationstart_stop.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="speechrecognition"
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/layout/speechrecognition.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="speechrecognition_result"
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/layout/speechrecognition_result.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="speechresult_listitem"
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/layout/speechresult_listitem.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="speechresultactivity_listitem"
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/layout/speechresultactivity_listitem.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="texttospeech"
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/layout/texttospeech.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="track_location"
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/layout/track_location.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="ttsdemo"
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/layout/ttsdemo.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="ttsinfo"
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/layout/ttsinfo.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="ttsresult_listitem"
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/layout/ttsresult_listitem.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="image_detectlogo"
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/layout-land/image_detectlogo.xml"
+                qualifiers="land"
+                type="layout" />
+            <file
+                name="image_detectlogo_better"
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/layout-land/image_detectlogo_better.xml"
+                qualifiers="land"
+                type="layout" />
+            <file
+                name="image_detectlogo_faster"
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/layout-land/image_detectlogo_faster.xml"
+                qualifiers="land"
+                type="layout" />
+            <file
+                name="image_livecaptureplus"
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/layout-land/image_livecaptureplus.xml"
+                qualifiers="land"
+                type="layout" />
+            <file
+                name="clapper_menu"
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/menu/clapper_menu.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="food_dialog_menu"
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/menu/food_dialog_menu.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="food_multi_dialog_menu"
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/menu/food_multi_dialog_menu.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="magic_word_menu"
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/menu/magic_word_menu.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="main_activity_actions"
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/menu/main_activity_actions.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="preferences_menu"
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/menu/preferences_menu.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="speech_menu"
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/menu/speech_menu.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="tts_menu"
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/menu/tts_menu.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="androidcalm"
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/raw/androidcalm.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="enjoytestapplication"
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/raw/enjoytestapplication.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="foods"
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/raw/foods.txt"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="highhz"
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/raw/highhz.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="lowhigh"
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/raw/lowhigh.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="lowhz"
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/raw/lowhz.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="midhz"
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/raw/midhz.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="tone"
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/raw/tone.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/values/bool.xml"
+                qualifiers="" >
+                <bool name="useHighPassFilterDefaultValue" >
+true
+                </bool>
+                <bool name="useTtsDefaultValue" >
+true
+                </bool>
+            </file>
+            <file
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/values/colors.xml"
+                qualifiers="" >
+                <color name="cornsilk" >#FFF8DC
+                </color>
+                <color name="solid_yellow" >#ffffff00
+                </color>
+                <color name="lightgrey" >#F2F2F2
+                </color>
+                <color name="screen_background_black" >#ff000000
+                </color>
+                <color name="khaki_plus" >#BDA96E
+                </color>
+                <color name="khaki" >#ADA96E
+                </color>
+                <color name="background_white" >#FFFFFF
+                </color>
+                <color name="solid_red" >#f00
+                </color>
+                <color name="snow" >#FFFAFA
+                </color>
+                <color name="emphasis_red" >#f00
+                </color>
+                <color name="normal_black" >#000000
+                </color>
+                <color name="solid_green" >#f0f0
+                </color>
+                <color name="boxtitle_brown" >#D2691E
+                </color>
+                <color name="red" >#7f00
+                </color>
+                <color name="orange4" >#f00
+                </color>
+                <color name="orange5" >#f00
+                </color>
+                <color name="blue2" >#0000ff
+                </color>
+                <color name="green" >#7700ff00
+                </color>
+                <color name="solid_blue" >#0000ff
+                </color>
+                <color name="blue" >#770000ff
+                </color>
+                <color name="yellow2" >#77ffff00
+                </color>
+                <color name="snowtransparenthighlight" >#55F8F8F6
+                </color>
+                <color name="yellow1" >#77ffff00
+                </color>
+                <color name="chocolate" >#D2691E
+                </color>
+                <color name="mygraytransparent" >#AAF2F2F2
+                </color>
+                <color name="gray" >#F2F2F2
+                </color>
+                <color name="blue25" >#0000ff
+                </color>
+                <color name="blackish" >#8B7765
+                </color>
+            </file>
+            <file
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/values/fooddialog.xml"
+                qualifiers="" >
+                <string name="food_remove_confirm_prompt" >Are you sure you want to remove %1$s?
+                </string>
+                <string name="food_cancelled" >Cancelled.
+                </string>
+                <string name="food_compare_result" >%1$s has more calories than %2$s
+                </string>
+                <string name="food_lookup_result" >%1$s has %2$s calories
+                </string>
+                <string name="food_add_result" >added %1$s with %2$s calories.
+                </string>
+                <string name="food_add_calories_prompt" >How many calories for %1$s?
+                </string>
+                <string name="food_compare_result_same" >%1$s has the same calories as %2$s
+                </string>
+                <string name="food_edit_compare_prompt" >Add &lt;food> or remove &lt;food> or &lt;food1> &lt;food2>
+                </string>
+                <string name="food_lookup_prompt" >Say a fruit or vegetable
+                </string>
+                <string name="food_remove_failed" >%1$s not removed
+                </string>
+
+                <array name="food_cancel" >
+                    <item>
+cancel
+                    </item>
+                </array>
+
+                <string name="food_remove_complete" >removed %1$s
+                </string>
+
+                <array name="food_remove_command" >
+                    <item>
+remove
+                    </item>
+                    <item>
+delete
+                    </item>
+                </array>
+
+                <string name="food_edit_prompt" >Add &lt;food name> or remove &lt;food name>
+                </string>
+
+                <array name="food_add_command" >
+                    <item>
+add
+                    </item>
+                </array>
+            </file>
+            <file
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/values/mapkey.xml"
+                qualifiers="" >
+                <string name="mapkey" >0k-YOo6o-aOF3cVry1k-yZO6zPQzQ_sleyeOWFw
+                </string>
+            </file>
+            <file
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/values/nfc_strings.xml"
+                qualifiers="" >
+                <string name="instructions" >Scan the NFC tag on the computer for information on its internals. Use the editable text fields below to make changes and click the update button to re-flash the NFC tag.
+                </string>
+                <string name="replace_current_tag" >Read tag and replace currently displayed tag information in the textfields?
+                </string>
+                <string name="computer_ram_label" >RAM (GB)
+                </string>
+                <string name="write_to_tag_button_label" >Update
+                </string>
+                <string name="turn_on_nfc" >NFC Inventory can\'t be used without NFC enabled. Please turn on NFC in the Settings and then use the back button to return to this app.
+                </string>
+                <string name="ready_to_write_instructions_generic" >Touch your device a tag to write.
+                </string>
+                <string name="ready_to_write_instructions" >Touch your device to a computer\'s tag to update its inventory.
+                </string>
+                <string name="computer_name_label" >Computer Name
+                </string>
+                <string name="computer_processor_label" >Processor speed (MHz)
+                </string>
+                <string name="ready_to_write" >Ready to write to NFC tag!
+                </string>
+                <string name="warning_nfc_is_off" >NFC is currently turned off!
+                </string>
+                <string name="new_tag_found" >New inventory tag found!
+                </string>
+            </file>
+            <file
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/values/pref_strings.xml"
+                qualifiers="" >
+                <string name="pref_websearch_default" >false
+                </string>
+                <string name="pref_language_default" >en-us
+                </string>
+                <string name="pref_direct_title" >Use SpeechRecognizer
+                </string>
+                <string name="pref_minimum_input_length_title" >MINIMUM_LENGTH
+                </string>
+                <string name="pref_food_prefix" >pref_food_prefix
+                </string>
+                <string name="pref_speech_key" >SpeechSettings
+                </string>
+                <string name="pref_direct_default" >false
+                </string>
+                <string name="pref_minimum_input_length_default" >@string/UNSET
+                </string>
+                <string name="pref_food_lucene_title" >Use lucene
+                </string>
+                <string name="pref_partial_title" >Partial Results
+                </string>
+                <string name="UNSET" >-1
+                </string>
+                <string name="pref_tts_pitch_title" >Pitch
+                </string>
+                <string name="pref_minimum_input_length" >pref_minimum_input_length
+                </string>
+                <string name="pref_languagemodel" >LanguageModel
+                </string>
+                <string name="pref_tts_pan_default" >0
+                </string>
+
+                <string-array name="pref_capacitive_backlight_entries" >
+                    <item>
+Strict
+                    </item>
+                    <item>
+Stem
+                    </item>
+                    <item>
+Phonetic
+                    </item>
+                </string-array>
+
+                <string name="pref_tts_queueaction_default" >false
+                </string>
+                <string name="pref_tts_stream" >pref_tts_stream
+                </string>
+                <string name="pref_tts_pan" >pref_tts_pan
+                </string>
+                <string name="pref_match_title" >Matching Method
+                </string>
+                <string name="pref_tts_silencelength_title" >Silence Length (Ms)
+                </string>
+                <string name="pref_food_phrase_title" >Phrase Query
+                </string>
+                <string name="pref_direct" >pref_direct
+                </string>
+                <string name="pref_food_prefix_title" >Prefix Query
+                </string>
+                <string name="pref_match" >pref_match
+                </string>
+
+                <string-array name="pref_capacitive_backlight_values" >
+                    <item>
+Strict
+                    </item>
+                    <item>
+Stem
+                    </item>
+                    <item>
+Phonetic
+                    </item>
+                </string-array>
+
+                <string name="pref_language" >Language
+                </string>
+                <string name="pref_food_default" >false
+                </string>
+                <string name="pref_match_default" >Strict
+                </string>
+                <string name="pref_tts_speechrate_default" >1.0
+                </string>
+                <string name="pref_handsfree_title" >Hands Free
+                </string>
+                <string name="pref_tts_queueaction" >queueAction
+                </string>
+                <string name="pref_tts_speechrate_title" >Speech Rate
+                </string>
+                <string name="pref_maxresults_title" >Max Results
+                </string>
+                <string name="pref_food_ordered_title" >Ordered
+                </string>
+                <string name="pref_withpendingintent_title" >Pending intent for results
+                </string>
+                <string name="pref_handsfree" >pref_handsfree
+                </string>
+                <string name="audio_clapper_preferences_key" >audio_clapper_preferences_key
+                </string>
+                <string name="pref_withpendingintent_default" >false
+                </string>
+                <string name="pref_tts_customaudio_default" >true
+                </string>
+                <string name="pref_tts_tofile" >pref_tts_tofile
+                </string>
+
+                <array name="pref_languagemodel_values" >
+                    <item>
+0
+                    </item>
+                    <item>
+1
+                    </item>
+                </array>
+
+                <string name="pref_languagemodel_default" >false
+                </string>
+                <string name="pref_match_stem" >Strict
+                </string>
+                <string name="pref_language_title" >Language
+                </string>
+                <string name="pref_tts_volume" >pref_tts_volume
+                </string>
+                <string name="pref_websearch" >pref_websearch
+                </string>
+                <string name="food_preferences_key" >food_preferences_key
+                </string>
+                <string name="pref_match_strict" >Strict
+                </string>
+                <string name="pref_tts_silencelength" >silencelength
+                </string>
+                <string name="pref_food_lucene" >pref_food_lucene
+                </string>
+                <string name="pref_tts_silencelength_default" >1000
+                </string>
+                <string name="pref_languagemodel_title" >Model free form
+                </string>
+                <string name="pref_tts_customaudio_title" >\"android\" custom speech
+                </string>
+                <string name="pref_food_or_title" >Or Query
+                </string>
+                <string name="pref_maxresults" >MaxResults
+                </string>
+
+                <integer name="pref_tts_stream_default" >
+3
+                </integer>
+
+                <string name="audio_clapper_amplitude_difference" >Phrase Query
+                </string>
+                <string name="pref_tts_volume_title" >Volume
+                </string>
+                <string name="pref_tts_pan_title" >Pan
+                </string>
+                <string name="pref_websearch_title" >Web Search
+                </string>
+                <string name="pref_tts_key" >TtsSettings
+                </string>
+                <string name="pref_food_ordered" >pref_food_ordered
+                </string>
+                <string name="pref_handsfree_default" >false
+                </string>
+                <string name="pref_tts_tofile_default" >false
+                </string>
+                <string name="pref_food_phrase" >pref_food_phrase
+                </string>
+                <string name="pref_withpendingintent" >pref_withpendingintent
+                </string>
+                <string name="pref_complete_silence" >pref_complete_silence
+                </string>
+                <string name="pref_complete_silence_title" >COMPLETE_SILENCE_LENGTH
+                </string>
+                <string name="pref_partial" >pref_parial
+                </string>
+                <string name="pref_tts_pitch" >pitch
+                </string>
+                <string name="pref_partial_default" >false
+                </string>
+                <string name="pref_food_or_default" >true
+                </string>
+                <string name="pref_tts_queueaction_title" >Queue Flush
+                </string>
+                <string name="pref_maxresults_default" >100
+                </string>
+                <string name="pref_complete_silence_default" >@string/UNSET
+                </string>
+                <string name="pref_possibly_complete_silence_length_title" >POSSIBLY_COMPLETE_SILENCE_LENGTH
+                </string>
+                <string name="pref_tts_pitch_default" >1.0
+                </string>
+                <string name="pref_tts_volume_default" >1.0
+                </string>
+                <string name="pref_tts_stream_title" >Audio Stream
+                </string>
+                <string name="pref_tts_tofile_title" >Synthesize to file
+                </string>
+                <string name="pref_tts_speechrate" >pref_tts_speechrate
+                </string>
+                <string name="pref_food_or" >pref_food_or
+                </string>
+                <string name="food_preferences_lookup_key" >food_lookup_preferences_key
+                </string>
+                <string name="pref_possibly_complete_silence_length_default" >@string/UNSET
+                </string>
+                <string name="pref_tts_customaudio" >customaudio
+                </string>
+                <string name="pref_possibly_complete_silence_length" >pref_possibly_complete_silence_length
+                </string>
+                <string name="pref_match_phonetic" >Strict
+                </string>
+            </file>
+            <file
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/values/sensors_strings.xml"
+                qualifiers="" >
+                <string name="details" >Sensor Details
+                </string>
+                <string name="change_rate" >Change Rate
+                </string>
+            </file>
+            <file
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="audio_start_audio_clapper" >Start Noise Clapper
+                </string>
+                <string name="gravitySensorLabel" >Gravity Sensor
+                </string>
+                <string name="tts_install_tts_data" >Requires Language data to proceed, would you like to install?
+                </string>
+                <string name="audio_start_clapper" >Start Clapper
+                </string>
+                <string name="clearProximityAlert" >Clear Proximity\nAlert
+                </string>
+                <string name="webServiceConnectionFailureMessage" >Could not read pressure from web service
+                </string>
+                <string name="nfcSectionHeading" >NFC
+                </string>
+                <string name="menu_speech_language_details" >Language Details
+                </string>
+                <string name="capture" >Capture
+                </string>
+                <string name="btn_stop" >Stop
+                </string>
+                <string name="speechTargetPresetHeading" >Select preset
+                </string>
+                <string name="speechFoodResultHeading" >Transcript
+                </string>
+                <string name="customProximityAlertTypeLabel" >Custom
+                </string>
+                <string name="speech_prompt" >Speak
+                </string>
+                <string name="speech_launcher_prompt" >Say a test phrase.
+                </string>
+                <string name="launchMagicWordExecutorActivityName" >Voice Executor Demo
+                </string>
+                <string name="launchMultiTurnFoodDialog" >Multi-turn Food Dialogue
+                </string>
+                <string name="menu_setaudiostream" >Set Audio Stream
+                </string>
+                <string name="speech_magic_word_secret" >tree
+                </string>
+                <string name="no_device" >Please connect the accessory.
+                </string>
+                <string name="btn_tts_stop_speak_label" >Stop speaking
+                </string>
+                <string name="audioSectionHeading" >Audio
+                </string>
+                <string name="d_error" >Error
+                </string>
+                <string name="btn_speech_stop_service" >Stop
+                </string>
+                <string name="zoom" >Zoom
+                </string>
+                <string name="speakMovementDetectedLabel" >Speak Movement Detected
+                </string>
+                <string name="launchSpeechRecognitionActivityName" >Speech Recognition Playground
+                </string>
+                <string name="accelerometerLabel" >Accelerometer
+                </string>
+                <string name="launchImageBarcode" >Barcode
+                </string>
+                <string name="launchTtsInfo" >Diagnostics
+                </string>
+                <string name="btn_start" >Start
+                </string>
+                <string name="audio_start_singing_clapper" >Start Singing Clapper
+                </string>
+                <string name="timeToFixLabel" >Time to Fix:
+                </string>
+                <string name="launchNfcPeer" >Peer To Peer Inventory
+                </string>
+                <string name="btn_food_edit_and_compare_label" >Edit and Compare
+                </string>
+                <string name="barometerAltitudeLabel" >Barometer Altitude (Standard Pressure)
+                </string>
+                <string name="longitudeLabel" >Longitude:
+                </string>
+                <string name="orientationLabel" >Orientation:
+                </string>
+                <string name="launchImageDetectLogoBetter" >Detect Logo Better
+                </string>
+                <string name="speech_magic_word_correct_prompt" >Correct! You said the magic word: 
+                </string>
+                <string name="imageSectionHeading" >Image Processing
+                </string>
+                <string name="app_name" >Stealth Saver
+                </string>
+                <string name="gpsAltitudeLabel" >GPS Altitude
+                </string>
+                <string name="launchMagicWord" >Say the Magic Word
+                </string>
+                <string name="btn_stop_speak_label" >Stop Listening
+                </string>
+                <string name="tts_d_stilldownloading_buttonwait" >Wait
+                </string>
+                <string name="providerLabel" >Provider:
+                </string>
+                <string name="launchMagicWordDemo" >Combined Demo
+                </string>
+                <string name="btn_start_motion_activate" >Start Movement Activator
+                </string>
+                <string name="tts_seelocales" >See available locales with data
+                </string>
+                <string name="startTrackingButtonText" >Start Tracking
+                </string>
+                <string name="launchNfc" >Simple Inventory
+                </string>
+                <string name="latitudeLabel" >Latitude:
+                </string>
+                <string name="audio_start_pitch" >Start Logging
+                </string>
+                <string name="speech_activation_btn_listening" >Listening for 
+                </string>
+                <string name="audio_stop_clapper_all" >Stop Recording
+                </string>
+                <string name="audio_magnitude_label" >Max Amplitude
+                </string>
+                <string name="tts_demotext1" >Attention customers
+                </string>
+                <string name="speechResultsHeading" >Results: 
+                </string>
+                <string name="menu_speechparam" >Speech Parameters
+                </string>
+                <string name="speechActivationHeading" >Select speech activation method
+                </string>
+                <string name="menu_showdb_param" >Show Foods
+                </string>
+                <string name="speech_magic_word_fail_prompt" >Wrong! The magic word is not: 
+                </string>
+                <string name="whiteBalance" >White Balance
+                </string>
+                <string name="menu_write_speech_activation_tag" >Write Speech Activation Tag
+                </string>
+                <string name="ttsSectionHeading" >Text-to-Speech
+                </string>
+                <string name="readingAccelerationData" >Reading Acceleration Data
+                </string>
+                <string name="standardPressureLabel" >Standard Pressure (milibar):
+                </string>
+                <string name="launchGetCurrentLocationActivityButtonText" >Get Current Location
+                </string>
+                <string name="selectSensorSectionHeading" >Select Sensor
+                </string>
+                <string name="speakOrientationLabel" >Speak Orientation
+                </string>
+                <string name="speech_magic_word_heard_nothing" >Heard nothing
+                </string>
+                <string name="launchDetermineMovement" >Determine Movement
+                </string>
+                <string name="launchLiveCapturePlus" >Live CapturePlus
+                </string>
+                <string name="launchLiveCapture" >Live Capture
+                </string>
+                <string name="ttsNotificationsOff" >TTS Notifications Off
+                </string>
+                <string name="tts_seelocalesnodata" >See locales status
+                </string>
+                <string name="accuracyLabel" >Accuracy:
+                </string>
+                <string name="setLocation" >Set Location
+                </string>
+                <string name="audio_play_low" >Play low
+                </string>
+                <string name="mslpLabel" >MSLP (milibar):
+                </string>
+                <string name="audio_stop_clapper" >Stop
+                </string>
+                <string name="launchProximityAlertActivityButtonText" >Add Proximity Alert
+                </string>
+                <string name="d_select_language" >Select language
+                </string>
+                <string name="rollLabel" >Roll (Y Axis):
+                </string>
+                <string name="altitudeLabel" >Altitude (m):
+                </string>
+                <string name="geocodeErrorMessage" >Geocoding of location failed. Try re-submitting location.
+                </string>
+
+                <array name="default_speech_targets" >
+                    <item>
+Cumin Seeds
+                    </item>
+                    <item>
+Cumin
+                    </item>
+                    <item>
+Decaf
+                    </item>
+                    <item>
+check
+                    </item>
+                    <item>
+uncheck
+                    </item>
+                    <item>
+Heart
+                    </item>
+                    <item>
+It’s not easy to wreck a nice beach
+                    </item>
+                    <item>
+Sally sell sea shells by the sea shore
+                    </item>
+                    <item>
+My android and I went to the store
+                    </item>
+                    <item>
+Je joue au tennis
+                    </item>
+                    <item>
+Vamos a la playa
+                    </item>
+                    <item>
+Say s
+                    </item>
+                </array>
+
+                <string name="changeLocationProviderSettingsText" >Change Location Provider Settings
+                </string>
+                <string name="switchCamera" >Switch camera
+                </string>
+                <string name="launchSpeechRecognition" >Try Speech
+                </string>
+                <string name="speechFoodBrowserName" >Food Database Browser
+                </string>
+                <string name="tts_info_activity_title" >Text-to-Speech Diagnostics
+                </string>
+                <string name="enterLocationLabel" >Enter Location:
+                </string>
+                <string name="androidProximityAlertTypeLabel" >Android
+                </string>
+                <string name="launchDetectFaces" >Detect Faces
+                </string>
+                <string name="flash" >Flash
+                </string>
+                <string name="captureAdvice" >"Enter filename"
+                </string>
+                <string name="speechTargetHeading" >What you are trying to say
+                </string>
+                <string name="launchSensorList" >Sensor List
+                </string>
+                <string name="speech_data_check_result_title" >Language Details Results
+                </string>
+                <string name="launchNorthFinder" >North Finder
+                </string>
+                <string name="tts_d_stilldownloading_buttonretry" >Retry
+                </string>
+                <string name="selectProximityAlertTypeLabel" >Select Proximity Alert Type
+                </string>
+                <string name="zAxisLabel" >Z Axis:
+                </string>
+                <string name="d_sent" >Sent
+                </string>
+                <string name="launchTtsDemo" >Demo
+                </string>
+                <string name="audio_status_stopped" >Not Recording
+                </string>
+                <string name="launchImageDetectLogo" >Detect Logo
+                </string>
+                <string name="speech_magic_word_prompt" >Say the magic word
+                </string>
+                <string name="audio_play_all" >Play All
+                </string>
+                <string name="menu_speech_compute_index" >Compute Index
+                </string>
+                <string name="enabledProvidersLabel" >Enabled Providers:
+                </string>
+                <string name="setProximityAlert" >Set Proximity\nAlert
+                </string>
+                <string name="ttsNotificationsOn" >TTS Notifications On
+                </string>
+                <string name="speechRecognitionFailed" >Did not understand, please try again
+                </string>
+                <string name="menu_suggestions" >Suggestions
+                </string>
+                <string name="btn_play_earcon_label" >Earcon
+                </string>
+                <string name="none" >None
+                </string>
+                <string name="rotationVectorLabel" >Rotation Vector
+                </string>
+                <string name="launchImageDetectLogoFaster" >Detect Logo Faster
+                </string>
+                <string name="launchFoodDialog" >Food Dialogue Matcher Playground
+                </string>
+                <string name="launchMagicWordActivityName" >Say the Magic Word
+                </string>
+                <string name="radiusLabel" >Enter Radius (m):
+                </string>
+                <string name="labelWriteTag" >Write Activation Tag
+                </string>
+                <string name="gpsNotEnabledMessage" >Warning: GPS is not enabled
+                </string>
+                <string name="speechActiviationControlHeading" >Activation Control
+                </string>
+                <string name="launchDetermineAltitude" >Determine Altitude
+                </string>
+                <string name="menu_resetdb_param" >Reset Database
+                </string>
+                <string name="app_icon_label" >Stealth Saver
+                </string>
+                <string name="menu_languageavailable" >Test Locale
+                </string>
+                <string name="btn_food_quiz_label" >Quiz
+                </string>
+                <string name="no_cameras" >This device has no cameras!
+                </string>
+                <string name="secondsUnit" >second(s)
+                </string>
+                <string name="speechNotAvailableMessage" >Speech recognition not supported on this device
+                </string>
+                <string name="tts_init_failed" >Unable to create text to speech
+                </string>
+                <string name="audio_log" >Detections
+                </string>
+                <string name="geocodeErrorTitle" >Geocoding Error
+                </string>
+                <string name="notAvailable" >N/A
+                </string>
+                <string name="eyesfree_speechlabel" >Speech Activation Detected
+                </string>
+                <string name="tts_" >Attention customers
+                </string>
+                <string name="btn_speak_label" >Speak
+                </string>
+                <string name="tts_d_stilldownloading_message" >Please wait for the language data to finish installing and try again.
+                </string>
+                <string name="azimuthLabel" >Azimuth (Z Axis):
+                </string>
+                <string name="proximityLabel" >Proximity (cm):
+                </string>
+                <string name="d_select_audio_stream" >Select audio stream
+                </string>
+                <string name="menu_filterparam" >Filter Parameters
+                </string>
+                <string name="speechActiviationHeading" >Activation Method
+                </string>
+                <string name="tts_dataCheck" >Data check
+                </string>
+                <string name="d_exit" >Exit
+                </string>
+                <string name="launchSpeechActivationService" >Stealth Saver
+                </string>
+
+                <array name="default_tts_targets" >
+                    <item>
+Heart
+                    </item>
+                    <item>
+Sally sell sea shells by the sea shore
+                    </item>
+                    <item>
+Broccoli is my favorite vegetable
+                    </item>
+                    <item>
+android
+                    </item>
+                    <item>
+Hola
+                    </item>
+                    <item>
+Quieres una alcachofa?
+                    </item>
+                    <item>
+bonjour comment allez-vous
+                    </item>
+                    <item>
+Say s
+                    </item>
+                </array>
+
+                <string name="gravityMagnetometerLabel" >Gravity Sensor &amp; Magnetometer
+                </string>
+                <string name="launchSpeechActivationStartStop" >Speech Activation Start Stop
+                </string>
+                <string name="audio_play_high" >Play High
+                </string>
+                <string name="launchTrackLocationActivityButtonText" >Track Location
+                </string>
+                <string name="optionsSectionHeading" >Options
+                </string>
+                <string name="mslpBarometerAltitudeLabel" >Barometer Altitude (MSLP)
+                </string>
+                <string name="TtsPlayActivityLabel" >Text-to-Speech Playground
+                </string>
+                <string name="speechMultiFoodResultHeading" >Recognition Results
+                </string>
+                <string name="launchDetermineOrientation" >Determine Orientation
+                </string>
+                <string name="metersUnit" >meters(s)
+                </string>
+                <string name="btn_play_silence_label" >Silence
+                </string>
+                <string name="yAxisLabel" >Y Axis:
+                </string>
+                <string name="d_ok" >Ok
+                </string>
+                <string name="startReadingAccelerationData" >Start Reading Acceleration Data
+                </string>
+                <string name="menu_reset_speechparam" >Reset All
+                </string>
+                <string name="menu_ttsparam" >parameters
+                </string>
+                <string name="pitchLabel" >Pitch (X Axis):
+                </string>
+                <string name="linearAccelerationSensorLabel" >Linear Acceleration Sensor
+                </string>
+                <string name="selectedSensorLabel" >Selected Sensor:
+                </string>
+                <string name="speechSectionHeading" >Speech Recognition
+                </string>
+                <string name="menu_hint" >Hint
+                </string>
+                <string name="locationSectionHeading" >Location Services
+                </string>
+                <string name="enableHighPassFilterLabel" >Enable High-Pass Filter
+                </string>
+                <string name="rotationMatrixGenFailureMessage" >Failed to generate rotation matrix
+                </string>
+                <string name="faceUpText" >Face Up
+                </string>
+                <string name="btn_speech_start_service" >Start
+                </string>
+                <string name="accelerometerMagnetometerLabel" >Accelerometer &amp; Magnetometer
+                </string>
+                <string name="xAxisLabel" >X Axis:
+                </string>
+                <string name="btn_speak_label_fordisplay" >Displaying results
+                </string>
+                <string name="sensorSectionHeading" >Physical Sensors
+                </string>
+                <string name="faceDownText" >Face Down
+                </string>
+                <string name="focus" >Focus
+                </string>
+                <string name="launchSimpleCaptureActivity" >Simple Capture
+                </string>
+                <string name="activity_title" >Stealth Saver
+                </string>
+                <string name="menu_resetprefs" >Reset to defaults
+                </string>
+                <string name="locationLabel" >Location:
+                </string>
+                <string name="d_info" >Info
+                </string>
+                <string name="menu_setlanguage" >Set Language
+                </string>
+                <string name="launchNfcBeam" >Beam Inventory
+                </string>
+                <string name="set_parameters_failed" >Set parameters failed: 
+                </string>
+                <string name="btn_speech_write_activation_tag" >Write speech activation tag
+                </string>
+                <string name="SpeechRecognitionResultsActivityLabel" >Speech Recognition Results
+                </string>
+                <string name="audio_play_mid" >Play Mid
+                </string>
+                <string name="launchTtsPlay" >Try Text-to-Speech
+                </string>
+                <string name="lookupLocationButton" >Lookup Location
+                </string>
+                <string name="btn_food_edit_label" >Edit
+                </string>
+                <string name="menu_param" >Matching Preferences
+                </string>
+                <string name="audio_status_recording" >Recording
+                </string>
+                <string name="movementDetectedText" >Movement Detected
+                </string>
+                <string name="btn_food_lookup_label" >Lookup
+                </string>
+                <string name="camera" >Camera
+                </string>
+                <string name="relativeAltitudeLabel" >Relative Altitude (m):
+                </string>
+                <string name="tts_textToSpeakHeading" >Text to speak
+                </string>
+                <string name="speech_activation_btn_prefix" >Start 
+                </string>
+                <string name="stopTrackingButtonText" >Stop Tracking
+                </string>
+                <string name="launchClapper" >Clapper
+                </string>
+            </file>
+            <file
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/values/style.xml"
+                qualifiers="" >
+
+                <style name="apptext" >
+                    <item name="android:textSize">
+12sp
+                    </item>
+                    <item name="android:layout_width">
+match_parent
+                    </item>
+                    <item name="android:layout_height">
+wrap_content
+                    </item>
+                </style>
+
+                <style
+                    name="dropdownbutton"
+                    parent="appbutton" >
+                    <item name="android:src">
+@drawable/arrow_down_float
+                    </item>
+                    <item name="android:scaleType">
+center
+                    </item>
+                </style>
+
+                <style
+                    name="appbutton"
+                    parent="apptext" >
+                </style>
+
+                <style name="line_separator" >
+                    <item name="android:layout_width">
+fill_parent
+                    </item>
+                    <item name="android:layout_height">
+2dip
+                    </item>
+                    <item name="android:color">
+@color/gray
+                    </item>
+                    <item name="android:background">
+@color/gray
+                    </item>
+                </style>
+
+                <style
+                    name="appspeechresulttext"
+                    parent="apptext" >
+                    <item name="android:textColor">
+@color/normal_black
+                    </item>
+                </style>
+
+                <style
+                    name="appbuttoninlist"
+                    parent="apptext" >
+                    <item name="android:padding">
+5dip
+                    </item>
+                </style>
+            </file>
+            <file
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/values-v11/styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="Theme.Gast"
+                    parent="@android:style/Theme.Holo" >
+                </style>
+            </file>
+            <file
+                name="accessory_filter"
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/xml/accessory_filter.xml"
+                qualifiers=""
+                type="xml" />
+            <file
+                name="audio_clapper_preferences"
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/xml/audio_clapper_preferences.xml"
+                qualifiers=""
+                type="xml" />
+            <file
+                name="food_preferences"
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/xml/food_preferences.xml"
+                qualifiers=""
+                type="xml" />
+            <file
+                name="speech_preferences"
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/xml/speech_preferences.xml"
+                qualifiers=""
+                type="xml" />
+            <file
+                name="tts_preferences"
+                path="/Users/Sihui/Downloads/app2/gastApp/src/main/res/xml/tts_preferences.xml"
+                qualifiers=""
+                type="xml" />
+        </source>
+        <source path="/Users/Sihui/Downloads/app2/gastApp/build/generated/res/rs/debug" />
+        <source path="/Users/Sihui/Downloads/app2/gastApp/build/generated/res/generated/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/Sihui/Downloads/app2/gastApp/src/debug/res" />
+    </dataSet>
+
+</merger>

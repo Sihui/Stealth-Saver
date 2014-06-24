@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="/Users/Sihui/Downloads/app2/gastLibaryLuceneExt/src/main/res" >
+            <file
+                name="ic_launcher"
+                path="/Users/Sihui/Downloads/app2/gastLibaryLuceneExt/src/main/res/drawable/ic_launcher.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/Sihui/Downloads/app2/gastLibaryLuceneExt/src/main/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/Sihui/Downloads/app2/gastLibaryLuceneExt/src/main/res/drawable-ldpi/ic_launcher.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/Sihui/Downloads/app2/gastLibaryLuceneExt/src/main/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="main"
+                path="/Users/Sihui/Downloads/app2/gastLibaryLuceneExt/src/main/res/layout/main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                path="/Users/Sihui/Downloads/app2/gastLibaryLuceneExt/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="hello" >Hello World, GastLibaryLuceneExtActivity!
+                </string>
+                <string name="app_name" >GastLibaryLuceneExt
+                </string>
+            </file>
+        </source>
+        <source path="/Users/Sihui/Downloads/app2/gastLibaryLuceneExt/build/generated/res/rs/release" />
+        <source path="/Users/Sihui/Downloads/app2/gastLibaryLuceneExt/build/generated/res/generated/release" />
+    </dataSet>
+    <dataSet config="release" >
+        <source path="/Users/Sihui/Downloads/app2/gastLibaryLuceneExt/src/release/res" />
+    </dataSet>
+
+</merger>
